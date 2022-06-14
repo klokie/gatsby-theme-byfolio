@@ -16,17 +16,17 @@
   },
   "dependencies": {
     "@christiandavid/gatsby-theme-byfolio": "*",
-    "gatsby": "^2.24.11",
-    "gatsby-plugin-google-gtag": "^2.1.10",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "gatsby": "^4.16.0",
+    "gatsby-plugin-google-gtag": "^4.16.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "cypress": "^4.11.0",
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-prettier": "^3.1.4",
-    "eslint-plugin-react-hooks": "^4.0.8",
-    "prettier": "^1.19.1",
-    "start-server-and-test": "^1.11.2"
+    "cypress": "^10.1.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.7.0",
+    "start-server-and-test": "^1.14.0"
   }
 }
